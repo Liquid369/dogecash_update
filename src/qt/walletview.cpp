@@ -24,7 +24,7 @@
 #include "transactionview.h"
 #include "walletmodel.h"
 
-#include "ui_interface.h"
+#include "ui_overviewpage.h"
 
 #include <QAction>
 #include <QActionGroup>
